@@ -10,6 +10,18 @@ npm run dev
 yarn dev
 ```
 
+```bash
+
+Project Tech stack : 
+1. NextJS
+2. Material UI
+3. Axios
+4. Styled Components
+
+```
+
+Deployed URL = `https://ofbusiness-assignment-r4eghczsx-gam1n.vercel.app/`
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
